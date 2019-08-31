@@ -9,5 +9,3 @@ CSS({
     atr: 'fontSize',
     value: '25px'
 })
-console.warn(2)
-console.info(1)

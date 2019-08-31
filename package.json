@@ -1,7 +1,7 @@
 {
-  "name": "parcel-sandbox",
+  "name": "statistics-javascript",
   "version": "1.0.0",
-  "description": "Simple Parcel Sandbox",
+  "description": "My statistics projetct",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
@@ -11,5 +11,6 @@
   "devDependencies": {
     "@babel/core": "7.2.0",
     "parcel-bundler": "^1.6.1"
-  }
+  },
+  "keywords": []
 }

@@ -12,5 +12,3 @@ CSS({
     atr: 'fontSize',
     value: '25px'
 })
-// Espero que goste do vídeo, vou coloca os código no github.
-// Link estará na descrição, abraços amigos.

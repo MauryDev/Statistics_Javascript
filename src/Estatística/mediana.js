@@ -1,4 +1,7 @@
 function Mediana(arr) {
+    arr = arr.sort(function(a,b) {
+        return a - b;
+    });
     if (Array.isArray(arr)) {
         if (arr.length) {
             let i = arr.length/2;
